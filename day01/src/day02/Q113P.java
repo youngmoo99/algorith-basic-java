@@ -38,7 +38,7 @@ public class Q113P {
 //				break;
 //			i++;
 //		}
-		return i == num ? -1 : i; // i 와 num이 같으면 -1 다르면 i
+		return i == num ? -1 : i; // i 와 num이 같으면 -1 다르면i
 
 	}
 

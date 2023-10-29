@@ -19,7 +19,7 @@ public class Q10 {
 			count++;
 			
 		}
-		System.out.println(count+"자리입니다.");
+		System.out.println(count +"자리입니다.");
 		
 	}
 
